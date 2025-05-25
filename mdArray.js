@@ -1,6 +1,5 @@
 //3.
-l
-  et names = ["Genevieve", "Juan", "Luna", "Gabriel", "Elise"];
+let names = ["Genevieve", "Juan", "Luna", "Gabriel", "Elise"];
 let ages = [24, 65, 21, 5, 9];
 
 let multiArray = [];
